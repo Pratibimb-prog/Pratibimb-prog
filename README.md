@@ -1,4 +1,4 @@
-# Hi 👋, I'm Pratibimb Swain
+# Hi , I'm Pratibimb Swain
 
 > Building intelligent systems that turn data into real-world impact 
 
@@ -34,9 +34,9 @@
 
 
 ##  GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=Pratibimb-prog&show_icons=true&theme=radical)
 
-![Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical)
+![Streak](https://streak-stats.demolab.com/?user=Pratibimb-prog&theme=radical)
 
 ---
 
