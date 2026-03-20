@@ -13,22 +13,56 @@
 
 ---
 
-##  Tech Stack
+## 🛠️ Tech Stack
 
-###  Programming
-`Python` | `SQL` 
+### 💻 Programming
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+</p>
+
+---
 
 ### 🤖 Machine Learning & NLP
-`Scikit-learn` | `TensorFlow` | `Keras` | `Hugging Face` | `LangChain` | `RAG` | `NLTK`
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40"/>
+</p>
 
-###  Data & Analytics
-`Pandas` | `NumPy` | `Matplotlib` | `Feature Engineering` | `Model Evaluation`
+<!-- Text-only tools (no official icons) -->
+`Hugging Face` • `LangChain` • `RAG` • `NLTK`
 
-###  Databases
-`MySQL` | `SQLite` | `ChromaDB`
+---
 
-###  Tools
-`Git` | `GitHub` | `Excel`
+### 📊 Data & Analytics
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40"/>
+</p>
+
+`Feature Engineering` • `Model Evaluation`
+
+---
+
+### 🗄️ Databases
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40"/>
+</p>
+
+`ChromaDB`
+
+---
+
+### ⚙️ Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+</p>
+
+`Excel`
 
 ---
 
