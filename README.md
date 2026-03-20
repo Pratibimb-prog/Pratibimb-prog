@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi 👋, I'm Pratibimb Swain
 
-<!--
-**Pratibimb-prog/Pratibimb-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Building intelligent systems that turn data into real-world impact 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+-  B.Tech (Computer Engineering) @ DTU 
+-  Aspiring Machine Learning Engineer with experience in NLP & RAG systems
+-  Strong in data analysis, model building, and evaluation
+-  Interested in scalable AI systems + backend engineering
+-  Goal: Data Scientist / SDE (ML-focused roles)
+
+---
+
+##  Tech Stack
+
+###  Programming
+`Python` | `SQL` 
+
+### 🤖 Machine Learning & NLP
+`Scikit-learn` | `TensorFlow` | `Keras` | `Hugging Face` | `LangChain` | `RAG` | `NLTK`
+
+###  Data & Analytics
+`Pandas` | `NumPy` | `Matplotlib` | `Feature Engineering` | `Model Evaluation`
+
+###  Databases
+`MySQL` | `SQLite` | `ChromaDB`
+
+###  Tools
+`Git` | `GitHub` | `Excel`
+
+---
+
+
+##  GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+![Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical)
+
+---
+
+##  Currently Working On
+- Advanced RAG systems
+- End-to-end ML deployment
+
+---
+
+##  Connect With Me
+- LinkedIn: https://www.linkedin.com/in/pratibimb-swain/
+- Email: pratibimb.swain@gmail.com
