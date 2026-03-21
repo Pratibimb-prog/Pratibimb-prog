@@ -4,7 +4,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 -  B.Tech (Computer Engineering) @ DTU 
 -  Aspiring Machine Learning Engineer with experience in NLP & RAG systems
 -  Strong in data analysis, model building, and evaluation
@@ -13,9 +13,9 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 💻 Programming
+### Programming
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" title="SQL"/>
@@ -23,7 +23,7 @@
 
 ---
 
-### 🤖 Machine Learning & NLP
+### Machine Learning & NLP
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" title="TensorFlow"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40" title="Keras"/>
@@ -37,7 +37,7 @@
 
 ---
 
-### 📊 Data & Analytics
+### Data & Analytics
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" title="Pandas"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" title="NumPy"/>
@@ -49,7 +49,7 @@
 
 ---
 
-### 🗄️ Databases
+### Databases
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" title="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" title="SQLite"/>
@@ -59,7 +59,7 @@
 
 ---
 
-### ⚙️ Tools
+### Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" title="GitHub"/>
