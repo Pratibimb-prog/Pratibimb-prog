@@ -3,6 +3,9 @@
 > Building intelligent systems that turn data into real-world impact 
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sanajitjana/sanajitjana/refs/heads/master/coding.gif" width="400"/>
+</p>
 
 ## About Me
 -  B.Tech (Computer Engineering) @ DTU 
