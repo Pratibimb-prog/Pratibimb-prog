@@ -1,19 +1,24 @@
-# Hi , I'm Pratibimb Swain
+# Hi, I'm Pratibimb Swain 
 
-> Building intelligent systems that turn data into real-world impact 
+<table>
+<tr>
+<td>
 
----
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sanajitjana/sanajitjana/refs/heads/master/coding.gif" width="400"/>
-</p>
+### About Me
+- B.Tech (Computer Engineering) @ DTU  
+- Aspiring ML Engineer  
+- Interested in scalable AI + backend  
+- Goal: Data Scientist / ML Engineer  
 
-## About Me
--  B.Tech (Computer Engineering) @ DTU 
--  Aspiring Machine Learning Engineer with experience in NLP & RAG systems
--  Strong in data analysis, model building, and evaluation
--  Interested in scalable AI systems + backend engineering
--  Goal: Data Scientist / SDE (ML-focused roles)
+</td>
 
+<td>
+
+<img src="https://raw.githubusercontent.com/sanajitjana/sanajitjana/refs/heads/master/coding.gif" width="300"/>
+
+</td>
+</tr>
+</table>
 ---
 
 ## Tech Stack
