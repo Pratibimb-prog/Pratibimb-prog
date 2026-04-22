@@ -75,6 +75,10 @@
 
 ---
 
+## 🧠 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratibimb-prog&layout=compact&theme=radical)
+
 ##  Currently Working On
 - Advanced RAG systems
 - End-to-end ML deployment
