@@ -1,8 +1,4 @@
-# Hi, I'm Pratibimb Swain 
-
-<table>
-<tr>
-<td>
+# Hi, I am Pratibimb Swain 
 
 ### About Me
 - B.Tech (Computer Engineering) @ DTU  
@@ -10,16 +6,9 @@
 - Interested in scalable AI + backend  
 - Goal: Data Scientist / ML Engineer  
 
-</td>
-
-<td>
-
-<img src="https://raw.githubusercontent.com/sanajitjana/sanajitjana/refs/heads/master/coding.gif" width="300"/>
-
-</td>
-</tr>
-</table>
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sanajitjana/sanajitjana/refs/heads/master/coding.gif" width="400"/>
+</p>
 
 ## Tech Stack
 
