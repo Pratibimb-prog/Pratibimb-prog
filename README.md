@@ -1,71 +1,78 @@
 # Hi, I am Pratibimb Swain 
 
-### About Me
-- B.Tech (Computer Engineering) @ DTU  
-- Aspiring ML Engineer  
-- Interested in scalable AI + backend  
-- Goal: Data Scientist / ML Engineer  
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/sanajitjana/sanajitjana/refs/heads/master/coding.gif" width="400"/>
 </p>
 
+---
+
+## About Me
+- B.Tech (Computer Engineering) @ DTU  
+- Aspiring Machine Learning Engineer  
+- Strong in NLP, RAG systems, and data-driven applications  
+- Interested in scalable AI systems + backend engineering  
+- Goal: Data Scientist / ML Engineer  
+
+---
+
 ## Tech Stack
 
-### Programming
+### Programming Languages
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" title="SQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
 </p>
 
 ---
 
-### Machine Learning & NLP
+### Backend Development
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" title="TensorFlow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40" title="Keras"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" title="Scikit-learn"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40"/>
 </p>
 
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-System-blue?style=for-the-badge)
-![NLTK](https://img.shields.io/badge/NLTK-NLP-green?style=for-the-badge)
+---
+
+### Machine Learning & AI
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40"/>
+</p>
 
 ---
 
 ### Data & Analytics
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" title="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" title="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" title="Matplotlib"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40"/>
 </p>
-
-![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-important?style=for-the-badge)
-![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-orange?style=for-the-badge)
 
 ---
 
 ### Databases
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" title="SQLite"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40"/>
 </p>
-
-![ChromaDB](https://img.shields.io/badge/ChromaDB-VectorDB-purple?style=for-the-badge)
 
 ---
 
-### Tools
+### Tools & DevOps
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
 </p>
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+---
 
-
-##  GitHub Stats
+## GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=Pratibimb-prog&show_icons=true&theme=radical)
 
 ![Streak](https://streak-stats.demolab.com/?user=Pratibimb-prog&theme=radical)
@@ -73,15 +80,25 @@
 ---
 
 ## Most Used Languages
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratibimb-prog&layout=compact&theme=radical)
-
-##  Currently Working On
-- Advanced RAG systems
-- End-to-end ML deployment
 
 ---
 
-##  Connect With Me
-- LinkedIn: https://www.linkedin.com/in/pratibimb-swain/
-- Email: pratibimb.swain@gmail.com
+## LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/prat_1706?theme=dark&font=Baloo&ext=heatmap" />
+</p>
+
+--
+
+## Currently Working On
+- Advanced RAG systems  
+- End-to-end ML deployment  
+- Scalable backend for AI applications  
+
+---
+
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/pratibimb-swain/  
+- Email: pratibimb.swain@gmail.com  
