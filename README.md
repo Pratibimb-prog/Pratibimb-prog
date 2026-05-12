@@ -87,7 +87,7 @@
 ## LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/prat_1706?theme=dark&font=Baloo&ext=heatmap" />
+  <img src="https://leetcode-stats.vercel.app/api?username=FlameFit32&theme=dark" />
 </p>
 
 --
