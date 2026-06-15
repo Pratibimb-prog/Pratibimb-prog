@@ -87,7 +87,7 @@
 ## LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcode-stats.vercel.app/api?username=FlameFit32&theme=dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prat_1706&theme=radical&hide_border=true" alt="Activity Graph" />
 </p>
 
 --
