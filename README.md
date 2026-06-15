@@ -75,8 +75,6 @@
 ## GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=Pratibimb-prog&show_icons=true&theme=radical)
 
-![Streak](https://streak-stats.demolab.com/?user=Pratibimb-prog&theme=radical)
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratibimb-prog&theme=radical&hide_border=true" alt="Activity Graph" />
 </p>
