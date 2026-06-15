@@ -4,6 +4,10 @@
   <img src="https://raw.githubusercontent.com/sanajitjana/sanajitjana/refs/heads/master/coding.gif" width="400"/>
 </p>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Pratibimb-prog&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 ---
 
 ## About Me
