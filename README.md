@@ -77,6 +77,10 @@
 
 ![Streak](https://streak-stats.demolab.com/?user=Pratibimb-prog&theme=radical)
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prat_1706&theme=radical&hide_border=true" alt="Activity Graph" />
+</p>
+
 ---
 
 ## Most Used Languages
