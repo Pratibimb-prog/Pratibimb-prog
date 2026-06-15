@@ -87,7 +87,10 @@
 ## LeetCode Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prat_1706&theme=radical&hide_border=true" alt="Activity Graph" />
+  <img
+    src="https://leetcard.jacoblin.cool/prat_1706?theme=dark&font=Consolas&ext=contest"
+    alt="LeetCode Stats"
+  />
 </p>
 
 --
